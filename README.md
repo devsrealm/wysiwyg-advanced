@@ -4,7 +4,7 @@ _This is beta software. I was on autopilot after an all-nighter when I versioned
 The **WYSIWYG Advanced** plugin adds lots of additional options to the ClassicPress visual editor. This plugin is a fork of [TinyMCE Advanced v4.8](https://wordpress.org/plugins/tinymce-advanced/) for WordPress and contains no Gutenberg code.
 
 # Pre-Installation
-If you already have TinyMCE Advanced installed, you will need to deactivate and delete it before installing WYSIWYG Advanced. You might try exporting your settings from TinyMCE Advanced beforehand and importing them into WYSIWYG Advanced once you get it installed, however, this has not been tested yet.
+If you already have TinyMCE Advanced installed, you will need to deactivate and delete it before installing WYSIWYG Advanced. If you want to preserve your current editor settings, you can export them to a text file before deleting the plugin. You can then import those settings back into WYSIWYG Advanced after you get it installed.
 
 # Installation
 1. Download the [package](https://github.com/johnalarcon/wysiwyg-advanced/archive/master.zip) to your local computer.
