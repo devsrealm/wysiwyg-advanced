@@ -366,13 +366,13 @@ if ( ! is_multisite() || current_user_can( 'manage_sites' ) ) {
 		if ( $has_editor_style === 'not-supporetd' ) {
 			?>
 				<br>
-				<span class="tadv-notice"><?php _e( 'Notice:', 'wysiwyg-advanced' ); ?></span>
+				<strong><?php _e( 'Notice', 'wysiwyg-advanced' ); ?></strong>: 
 				<?php _e( 'Your theme does not support editor-style.css.', 'wysiwyg-advanced' ); ?>
 			<?php
 		} elseif ( $disabled ) {
 			?>
 				<br>
-				<span class="tadv-notice"><?php _e( 'Notice:', 'wysiwyg-advanced' ); ?></span>
+				<strong><?php _e( 'Notice', 'wysiwyg-advanced' ); ?></strong>: 
 				<?php _e( 'A stylesheet file named editor-style.css was not added by your theme.', 'wysiwyg-advanced' ); ?>
 			<?php
 		}
