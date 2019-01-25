@@ -16,7 +16,9 @@ If you already have TinyMCE Advanced installed, you will need to deactivate and 
 Compatible with ClassicPress 1.x.x. It should also continue to work on WordPress 4.9.x installations without any problem. PHP 7.3 ready.
 
 # Contributing
-If you find an error, please submit an issue. If you can fix it, please submit a pull request. Note that this plugin is not planned for further development. Critical bugs and security issues will be addressed, if they arise, but the plugin isn't planned for feature development.
+If you find an error, please submit an issue. If you can fix it, please submit a pull request.
+
+Contributions are accepted, and critical bugs and security issues will be addressed if they arise.  However, please note that this plugin is generally considered **feature complete** and significant further development is not planned at this time.
 
 # Screenshot
 ![Screenshot](screenshot.png)
